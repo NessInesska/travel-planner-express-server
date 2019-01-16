@@ -1,0 +1,306 @@
+{
+  "cities": [
+    {
+      "id": 1,
+      "name": "London",
+      "description": "London london",
+      "image": "img1"
+    },
+    {
+      "id": 2,
+      "name": "Oslo",
+      "description": "Oslo london",
+      "image": "img1"
+    },
+    {
+      "id": 3,
+      "name": "Los-Angeles",
+      "description": "Los-Angeles london",
+      "image": "img1"
+    },
+    {
+      "id": 4,
+      "name": "Paris",
+      "description": "Paris london",
+      "image": "img1"
+    },
+    {
+      "id": 5,
+      "name": "California",
+      "description": "California london",
+      "image": "img1"
+    },
+    {
+      "id": 6,
+      "name": "San-Ramon",
+      "description": "San-Ramon london",
+      "image": "img1"
+    },
+    {
+      "id": 7,
+      "name": "Moscow",
+      "description": "Moscow london",
+      "image": "img1"
+    },
+    {
+      "id": 8,
+      "name": "Berlin",
+      "description": "Berlin london",
+      "image": "img1"
+    },
+    {
+      "id": 9,
+      "name": "San-Francisco",
+      "description": "San-Francisco london",
+      "image": "img1"
+    },
+    {
+      "id": 10,
+      "name": "Krakow",
+      "description": "Krakow london",
+      "image": "img1"
+    },
+    {
+      "id": 11,
+      "name": "Warsaw",
+      "description": "Warsaw london",
+      "image": "img1"
+    }
+  ],
+  "actions": [
+    {
+      "id": 1,
+      "name": "Flights"
+    },
+    {
+      "id": 2,
+      "name": "Food costs"
+    },
+    {
+      "id": 3,
+      "name": "Hotels"
+    }
+  ],
+  "flights": [
+    {
+      "id": 1,
+      "departure": "Moscow",
+      "departureDate": "01.01.2019",
+      "arrival": "London",
+      "arrivalDate": "01.01.2019",
+      "price": 182,
+      "leftInStock": 100,
+      "transfer": "no",
+      "travelClass": "economy"
+    },
+    {
+      "id": 11,
+      "departure": "London",
+      "departureDate": "01.01.2019",
+      "arrival": "Moscow",
+      "arrivalDate": "01.01.2019",
+      "price": 182,
+      "leftInStock": 100,
+      "transfer": "no",
+      "travelClass": "economy"
+    },
+    {
+      "id": 2,
+      "departure": "Moscow",
+      "departureDate": "01.01.2019",
+      "arrival": "Oslo",
+      "arrivalDate": "01.01.2019",
+      "price": 182,
+      "leftInStock": 100,
+      "transfer": "no",
+      "travelClass": "economy"
+    },
+    {
+      "id": 21,
+      "departure": "Oslo",
+      "departureDate": "01.01.2019",
+      "arrival": "Moscow",
+      "arrivalDate": "01.01.2019",
+      "price": 182,
+      "leftInStock": 100,
+      "transfer": "no",
+      "travelClass": "economy"
+    },
+    {
+      "id": 3,
+      "departure": "Moscow",
+      "departureDate": "01.01.2019",
+      "arrival": "Los-Angeles",
+      "arrivalDate": "01.01.2019",
+      "price": 182,
+      "leftInStock": 100,
+      "transfer": "no",
+      "travelClass": "economy"
+    },
+    {
+      "id": 31,
+      "departure": "Los-Angeles",
+      "departureDate": "01.01.2019",
+      "arrival": "Moscow",
+      "arrivalDate": "01.01.2019",
+      "price": 182,
+      "leftInStock": 100,
+      "transfer": "no",
+      "travelClass": "economy"
+    },
+    {
+      "id": 4,
+      "departure": "Moscow",
+      "departureDate": "01.01.2019",
+      "arrival": "Paris",
+      "arrivalDate": "01.01.2019",
+      "price": 182,
+      "leftInStock": 100,
+      "transfer": "no",
+      "travelClass": "economy"
+    },
+    {
+      "id": 41,
+      "departure": "Paris",
+      "departureDate": "01.01.2019",
+      "arrival": "Moscow",
+      "arrivalDate": "01.01.2019",
+      "price": 182,
+      "leftInStock": 100,
+      "transfer": "no",
+      "travelClass": "economy"
+    },
+    {
+      "id": 5,
+      "departure": "Moscow",
+      "departureDate": "01.01.2019",
+      "arrival": "California",
+      "arrivalDate": "01.01.2019",
+      "price": 182,
+      "leftInStock": 100,
+      "transfer": "no",
+      "travelClass": "economy"
+    },
+    {
+      "id": 51,
+      "departure": "California",
+      "departureDate": "01.01.2019",
+      "arrival": "Moscow",
+      "arrivalDate": "01.01.2019",
+      "price": 182,
+      "leftInStock": 100,
+      "transfer": "no",
+      "travelClass": "economy"
+    },
+    {
+      "id": 6,
+      "departure": "Moscow",
+      "departureDate": "01.01.2019",
+      "arrival": "San-Ramon",
+      "arrivalDate": "01.01.2019",
+      "price": 182,
+      "leftInStock": 100,
+      "transfer": "no",
+      "travelClass": "economy"
+    },
+    {
+      "id": 61,
+      "departure": "San-Ramon",
+      "departureDate": "01.01.2019",
+      "arrival": "Moscow",
+      "arrivalDate": "01.01.2019",
+      "price": 182,
+      "leftInStock": 100,
+      "transfer": "no",
+      "travelClass": "economy"
+    },
+    {
+      "id": 7,
+      "departure": "Moscow",
+      "departureDate": "01.01.2019",
+      "arrival": "Warsaw",
+      "arrivalDate": "01.01.2019",
+      "price": 182,
+      "leftInStock": 100,
+      "transfer": "no",
+      "travelClass": "economy"
+    },
+    {
+      "id": 71,
+      "departure": "Warsaw",
+      "departureDate": "01.01.2019",
+      "arrival": "Moscow",
+      "arrivalDate": "01.01.2019",
+      "price": 182,
+      "leftInStock": 100,
+      "transfer": "no",
+      "travelClass": "economy"
+    },
+    {
+      "id": 8,
+      "departure": "Moscow",
+      "departureDate": "01.01.2019",
+      "arrival": "Berlin",
+      "arrivalDate": "01.01.2019",
+      "price": 182,
+      "leftInStock": 100,
+      "transfer": "no",
+      "travelClass": "economy"
+    },
+    {
+      "id": 81,
+      "departure": "Berlin",
+      "departureDate": "01.01.2019",
+      "arrival": "Moscow",
+      "arrivalDate": "01.01.2019",
+      "price": 182,
+      "leftInStock": 100,
+      "transfer": "no",
+      "travelClass": "economy"
+    },
+    {
+      "id": 9,
+      "departure": "Moscow",
+      "departureDate": "01.01.2019",
+      "arrival": "San-Francisco",
+      "arrivalDate": "01.01.2019",
+      "price": 182,
+      "leftInStock": 100,
+      "transfer": "no",
+      "travelClass": "economy"
+    },
+    {
+      "id": 91,
+      "departure": "San-Francisco",
+      "departureDate": "01.01.2019",
+      "arrival": "Moscow",
+      "arrivalDate": "01.01.2019",
+      "price": 182,
+      "leftInStock": 100,
+      "transfer": "no",
+      "travelClass": "economy"
+    },
+    {
+      "id": 10,
+      "departure": "Moscow",
+      "departureDate": "01.01.2019",
+      "arrival": "Krakow",
+      "arrivalDate": "01.01.2019",
+      "price": 182,
+      "leftInStock": 100,
+      "transfer": "no",
+      "travelClass": "economy"
+    },
+    {
+      "id": 101,
+      "departure": "Krakow",
+      "departureDate": "01.01.2019",
+      "arrival": "Moscow",
+      "arrivalDate": "01.01.2019",
+      "price": 182,
+      "leftInStock": 100,
+      "transfer": "no",
+      "travelClass": "economy"
+    }
+  ]
+}
