@@ -1,0 +1,24 @@
+{
+  "name": "travel-planner-express-server",
+  "version": "1.0.0",
+  "description": "Simple server for travel planner",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NessInesska/travel-planner-express-server.git"
+  },
+  "author": "Inessa Borodich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NessInesska/travel-planner-express-server/issues"
+  },
+  "homepage": "https://github.com/NessInesska/travel-planner-express-server#readme"
+}
