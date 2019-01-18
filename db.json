@@ -4,67 +4,61 @@
       "id": 1,
       "name": "London",
       "description": "London london",
-      "image": "img1"
+      "image": "./assets/london.jpg"
     },
     {
       "id": 2,
       "name": "Oslo",
       "description": "Oslo london",
-      "image": "img1"
+      "image": "./assets/norway.jpg"
     },
     {
       "id": 3,
-      "name": "Los-Angeles",
+      "name": "Nevada",
       "description": "Los-Angeles london",
-      "image": "img1"
+      "image": "./assets/Nevada.JPG"
     },
     {
       "id": 4,
       "name": "Paris",
       "description": "Paris london",
-      "image": "img1"
+      "image": "./assets/london.jpg"
     },
     {
       "id": 5,
       "name": "California",
       "description": "California london",
-      "image": "img1"
+      "image": "./assets/California.JPG"
     },
     {
       "id": 6,
       "name": "San-Ramon",
       "description": "San-Ramon london",
-      "image": "img1"
+      "image": "./assets/Sea.jpg"
     },
     {
       "id": 7,
       "name": "Moscow",
       "description": "Moscow london",
-      "image": "img1"
+      "image": "./assets/london.jpg"
     },
     {
       "id": 8,
       "name": "Berlin",
       "description": "Berlin london",
-      "image": "img1"
+      "image": "./assets/Mountains.JPG"
     },
     {
       "id": 9,
       "name": "San-Francisco",
       "description": "San-Francisco london",
-      "image": "img1"
+      "image": "./assets/field.JPG"
     },
     {
       "id": 10,
       "name": "Krakow",
       "description": "Krakow london",
-      "image": "img1"
-    },
-    {
-      "id": 11,
-      "name": "Warsaw",
-      "description": "Warsaw london",
-      "image": "img1"
+      "image": "./assets/Sea.jpg"
     }
   ],
   "actions": [
