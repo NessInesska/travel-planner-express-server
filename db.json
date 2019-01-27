@@ -82,6 +82,7 @@
     {
       "id": 1,
       "departure": "Moscow",
+      "cityId": 7,
       "departureDate": "01.01.2019",
       "arrival": "London",
       "arrivalDate": "01.01.2019",
@@ -95,6 +96,7 @@
     {
       "id": 11,
       "departure": "London",
+      "cityId": 1,
       "departureDate": "01.01.2019",
       "arrival": "Moscow",
       "arrivalDate": "01.01.2019",
@@ -108,6 +110,7 @@
     {
       "id": 2,
       "departure": "Moscow",
+      "cityId": 7,
       "departureDate": "01.01.2019",
       "arrival": "Oslo",
       "arrivalDate": "01.01.2019",
@@ -121,6 +124,7 @@
     {
       "id": 21,
       "departure": "Oslo",
+      "cityId": 2,
       "departureDate": "01.01.2019",
       "arrival": "Moscow",
       "arrivalDate": "01.01.2019",
@@ -134,6 +138,7 @@
     {
       "id": 3,
       "departure": "Moscow",
+      "cityId": 7,
       "departureDate": "01.01.2019",
       "arrival": "Los-Angeles",
       "arrivalDate": "01.01.2019",
@@ -147,6 +152,7 @@
     {
       "id": 31,
       "departure": "Los-Angeles",
+      "cityId": 5,
       "departureDate": "01.01.2019",
       "arrival": "Moscow",
       "arrivalDate": "01.01.2019",
@@ -160,6 +166,7 @@
     {
       "id": 4,
       "departure": "Moscow",
+      "cityId": 7,
       "departureDate": "01.01.2019",
       "arrival": "Paris",
       "arrivalDate": "01.01.2019",
@@ -173,6 +180,7 @@
     {
       "id": 41,
       "departure": "Paris",
+      "cityId": 4,
       "departureDate": "01.01.2019",
       "arrival": "Moscow",
       "arrivalDate": "01.01.2019",
@@ -186,6 +194,7 @@
     {
       "id": 5,
       "departure": "Moscow",
+      "cityId": 7,
       "departureDate": "01.01.2019",
       "arrival": "California",
       "arrivalDate": "01.01.2019",
@@ -199,6 +208,7 @@
     {
       "id": 51,
       "departure": "California",
+      "cityId": 6,
       "departureDate": "01.01.2019",
       "arrival": "Moscow",
       "arrivalDate": "01.01.2019",
@@ -212,6 +222,7 @@
     {
       "id": 6,
       "departure": "Moscow",
+      "cityId": 7,
       "departureDate": "01.01.2019",
       "arrival": "San-Ramon",
       "arrivalDate": "01.01.2019",
@@ -225,6 +236,7 @@
     {
       "id": 61,
       "departure": "San-Ramon",
+      "cityId": 6,
       "departureDate": "01.01.2019",
       "arrival": "Moscow",
       "arrivalDate": "01.01.2019",
@@ -238,6 +250,7 @@
     {
       "id": 7,
       "departure": "Moscow",
+      "cityId": 7,
       "departureDate": "01.01.2019",
       "arrival": "Warsaw",
       "arrivalDate": "01.01.2019",
@@ -251,6 +264,7 @@
     {
       "id": 71,
       "departure": "Warsaw",
+      "cityId": 10,
       "departureDate": "01.01.2019",
       "arrival": "Moscow",
       "arrivalDate": "01.01.2019",
@@ -264,6 +278,7 @@
     {
       "id": 8,
       "departure": "Moscow",
+      "cityId": 7,
       "departureDate": "01.01.2019",
       "arrival": "Berlin",
       "arrivalDate": "01.01.2019",
@@ -277,6 +292,7 @@
     {
       "id": 81,
       "departure": "Berlin",
+      "cityId": 8,
       "departureDate": "01.01.2019",
       "arrival": "Moscow",
       "arrivalDate": "01.01.2019",
@@ -290,6 +306,7 @@
     {
       "id": 9,
       "departure": "Moscow",
+      "cityId": 7,
       "departureDate": "01.01.2019",
       "arrival": "San-Francisco",
       "arrivalDate": "01.01.2019",
@@ -303,6 +320,7 @@
     {
       "id": 91,
       "departure": "San-Francisco",
+      "cityId": 9,
       "departureDate": "01.01.2019",
       "arrival": "Moscow",
       "arrivalDate": "01.01.2019",
@@ -316,6 +334,7 @@
     {
       "id": 10,
       "departure": "Moscow",
+      "cityId": 7,
       "departureDate": "01.01.2019",
       "arrival": "Krakow",
       "arrivalDate": "01.01.2019",
@@ -329,6 +348,7 @@
     {
       "id": 101,
       "departure": "Krakow",
+      "cityId": 10,
       "departureDate": "01.01.2019",
       "arrival": "Moscow",
       "arrivalDate": "01.01.2019",
@@ -338,6 +358,408 @@
       "travelClass": "economy",
       "company": "Lufthansa",
       "logo": "./assets/lufthansa.png"
+    }
+  ],
+  "hotels": [
+    {
+      "id": 1,
+      "name": "O'Connell-Rowe",
+      "email": "sbeeswing0@dot.gov",
+      "location": "845 Lake View Road",
+      "city": "Nevada",
+      "priceForNight": 30
+    },
+    {
+      "id": 2,
+      "name": "Emmerich and Sons",
+      "email": "bscogings1@dedecms.com",
+      "location": "60 Lien Trail",
+      "city": "Nevada",
+      "priceForNight": 528
+    },
+    {
+      "id": 3,
+      "name": "Olson, Jaskolski and Sauer",
+      "email": "cmyhill2@forbes.com",
+      "location": "95 Jackson Place",
+      "city": "Nevada",
+      "priceForNight": 51
+    },
+    {
+      "id": 4,
+      "name": "Block LLC",
+      "email": "mstandring3@privacy.gov.au",
+      "location": "9531 Crownhardt Point",
+      "city": "Nevada",
+      "priceForNight": 9
+    },
+    {
+      "id": 5,
+      "name": "Schimmel Group",
+      "email": "awarlawe4@irs.gov",
+      "location": "4716 Roth Point",
+      "city": "Nevada",
+      "priceForNight": 213
+    },
+    {
+      "id": 6,
+      "name": "Fritsch Inc",
+      "email": "gtremlett5@vk.com",
+      "location": "11871 Carpenter Street",
+      "city": "Paris",
+      "priceForNight": 70
+    },
+    {
+      "id": 7,
+      "name": "Howe Inc",
+      "email": "lspradbrow6@who.int",
+      "location": "554 Hintze Court",
+      "city": "Paris",
+      "priceForNight": 424
+    },
+    {
+      "id": 8,
+      "name": "McClure, Zemlak and Haag",
+      "email": "cnotti7@harvard.edu",
+      "location": "412 Oriole Alley",
+      "city": "Paris",
+      "priceForNight": 45
+    },
+    {
+      "id": 9,
+      "name": "Shields-Rohan",
+      "email": "lmackiewicz8@accuweather.com",
+      "location": "8 Arkansas Way",
+      "city": "Paris",
+      "priceForNight": 307
+    },
+    {
+      "id": 10,
+      "name": "Dickinson Inc",
+      "email": "zkittle9@drupal.org",
+      "location": "1173 Heffernan Lane",
+      "city": "Paris",
+      "priceForNight": 20
+    },
+    {
+      "id": 11,
+      "name": "Maggio Group",
+      "email": "astanbridgea@bigcartel.com",
+      "location": "07 Express Alley",
+      "city": "Paris",
+      "priceForNight": 88
+    },
+    {
+      "id": 12,
+      "name": "Jaskolski, Muller and Wehner",
+      "email": "lstruttonb@europa.eu",
+      "location": "7 Chinook Point",
+      "city": "Los-Angeles",
+      "priceForNight": 611
+    },
+    {
+      "id": 13,
+      "name": "Runolfsson LLC",
+      "email": "rwofendenc@yelp.com",
+      "location": "29 Aberg Point",
+      "city": "Los-Angeles",
+      "priceForNight": 2
+    },
+    {
+      "id": 14,
+      "name": "Cartwright-Hartmann",
+      "email": "tgraithd@irs.gov",
+      "location": "89048 Ramsey Road",
+      "city": "Los-Angeles",
+      "priceForNight": 449
+    },
+    {
+      "id": 15,
+      "name": "Russel, Hermiston and Wisoky",
+      "email": "domullene@dropbox.com",
+      "location": "72 Florence Drive",
+      "city": "Los-Angeles",
+      "priceForNight": 97
+    },
+    {
+      "id": 16,
+      "name": "Lakin, Bechtelar and Emard",
+      "email": "hhefferonf@deviantart.com",
+      "location": "086 Kim Point",
+      "city": "San-Ramon",
+      "priceForNight": 293
+    },
+    {
+      "id": 17,
+      "name": "Zulauf, O'Kon and Quigley",
+      "email": "rdearg@plala.or.jp",
+      "location": "0646 Ohio Way",
+      "city": "San-Ramon",
+      "priceForNight": 450
+    },
+    {
+      "id": 18,
+      "name": "Larson-Kuphal",
+      "email": "cdaguannoh@uiuc.edu",
+      "location": "01 Melvin Park",
+      "city": "San-Ramon",
+      "priceForNight": 6
+    },
+    {
+      "id": 19,
+      "name": "Hilpert-Morar",
+      "email": "ddelaneyi@msu.edu",
+      "location": "817 Anderson Crossing",
+      "city": "San-Ramon",
+      "priceForNight": 401
+    },
+    {
+      "id": 20,
+      "name": "Abernathy-Bernier",
+      "email": "epaszakj@google.de",
+      "location": "483 Green Plaza",
+      "city": "San-Ramon",
+      "priceForNight": 6
+    },
+    {
+      "id": 21,
+      "name": "Collins-Dietrich",
+      "email": "kferencowiczk@newsvine.com",
+      "location": "21 Prairieview Plaza",
+      "city": "London",
+      "priceForNight": 298
+    },
+    {
+      "id": 22,
+      "name": "Graham-Beatty",
+      "email": "gbergl@techcrunch.com",
+      "location": "18805 American Ash Lane",
+      "city": "London",
+      "priceForNight": 118
+    },
+    {
+      "id": 23,
+      "name": "Emard, Erdman and Gerhold",
+      "email": "lwildorm@dot.gov",
+      "location": "15256 Cottonwood Crossing",
+      "city": "London",
+      "priceForNight": 6
+    },
+    {
+      "id": 24,
+      "name": "Rolfson LLC",
+      "email": "apetraccon@plala.or.jp",
+      "location": "70116 Coleman Avenue",
+      "city": "London",
+      "priceForNight": 9
+    },
+    {
+      "id": 25,
+      "name": "Kautzer-Jacobson",
+      "email": "chumberstono@amazonaws.com",
+      "location": "8 Stang Point",
+      "city": "London",
+      "priceForNight": 7
+    },
+    {
+      "id": 26,
+      "name": "Gusikowski, King and Crooks",
+      "email": "bdaelmanp@berkeley.edu",
+      "location": "25 Jenna Crossing",
+      "city": "Oslo",
+      "priceForNight": 67
+    },
+    {
+      "id": 27,
+      "name": "Yost-Konopelski",
+      "email": "afawloq@unblog.fr",
+      "location": "1323 Green Ridge Place",
+      "city": "Oslo",
+      "priceForNight": 195
+    },
+    {
+      "id": 28,
+      "name": "Hamill Inc",
+      "email": "pflatter@wix.com",
+      "location": "84 West Park",
+      "city": "Oslo",
+      "priceForNight": 51
+    },
+    {
+      "id": 29,
+      "name": "Kemmer Inc",
+      "email": "dfountaines@theguardian.com",
+      "location": "66873 Cardinal Avenue",
+      "city": "Oslo",
+      "priceForNight": 83
+    },
+    {
+      "id": 30,
+      "name": "Crist and Sons",
+      "email": "dfahyt@360.cn",
+      "location": "228 Birchwood Way",
+      "city": "Oslo",
+      "priceForNight": 52
+    },
+    {
+      "id": 31,
+      "name": "Shanahan, Abernathy and Kuvalis",
+      "email": "cgeddisu@admin.ch",
+      "location": "4721 Warrior Place",
+      "city": "Moscow",
+      "priceForNight": 402
+    },
+    {
+      "id": 32,
+      "name": "Conn LLC",
+      "email": "cdriversv@unc.edu",
+      "location": "741 Warner Drive",
+      "city": "Moscow",
+      "priceForNight": 8
+    },
+    {
+      "id": 33,
+      "name": "Fay, Emmerich and Casper",
+      "email": "wnutbrownw@skyrock.com",
+      "location": "7036 Village Point",
+      "city": "Moscow",
+      "priceForNight": 604
+    },
+    {
+      "id": 34,
+      "name": "Hills Inc",
+      "email": "lchaneyx@ox.ac.uk",
+      "location": "80 Talisman Park",
+      "city": "Moscow",
+      "priceForNight": 56
+    },
+    {
+      "id": 35,
+      "name": "Bernier, Kling and Spinka",
+      "email": "sveelery@jiathis.com",
+      "location": "9 Grover Pass",
+      "city": "Moscow",
+      "priceForNight": 1025
+    },
+    {
+      "id": 36,
+      "name": "Schroeder-Kohler",
+      "email": "fdebnamz@jigsy.com",
+      "location": "0 Cambridge Alley",
+      "city": "Berlin",
+      "priceForNight": 776
+    },
+    {
+      "id": 37,
+      "name": "Homenick and Sons",
+      "email": "slivick10@skyrock.com",
+      "location": "7441 Hudson Place",
+      "city": "Berlin",
+      "priceForNight": 0
+    },
+    {
+      "id": 38,
+      "name": "Brakus, Torp and Crona",
+      "email": "adelacoste11@phpbb.com",
+      "location": "83 Roxbury Crossing",
+      "city": "Berlin",
+      "priceForNight": 53
+    },
+    {
+      "id": 39,
+      "name": "Baumbach, Streich and Schiller",
+      "email": "riacopo12@studiopress.com",
+      "location": "92667 Marquette Avenue",
+      "city": "Berlin",
+      "priceForNight": 21
+    },
+    {
+      "id": 40,
+      "name": "Cartwright and Sons",
+      "email": "jpicot13@ameblo.jp",
+      "location": "66 Mayer Lane",
+      "city": "Berlin",
+      "priceForNight": 308
+    },
+    {
+      "id": 41,
+      "name": "Predovic and Sons",
+      "email": "rmcginney14@unblog.fr",
+      "location": "531 Morningstar Junction",
+      "city": "San-Francisco",
+      "priceForNight": 343
+    },
+    {
+      "id": 42,
+      "name": "Harris-Hansen",
+      "email": "kobeney15@nasa.gov",
+      "location": "40 Scofield Pass",
+      "city": "San-Francisco",
+      "priceForNight": 680
+    },
+    {
+      "id": 43,
+      "name": "Hane and Sons",
+      "email": "hnutkins16@mail.ru",
+      "location": "640 Talmadge Park",
+      "city": "San-Francisco",
+      "priceForNight": 4
+    },
+    {
+      "id": 44,
+      "name": "Collins-Towne",
+      "email": "askells17@stanford.edu",
+      "location": "5415 Corry Plaza",
+      "city": "San-Francisco",
+      "priceForNight": 380
+    },
+    {
+      "id": 45,
+      "name": "Kuhlman, Kovacek and Bartoletti",
+      "email": "aswepstone18@zdnet.com",
+      "location": "8103 Logan Drive",
+      "city": "San-Francisco",
+      "priceForNight": 766
+    },
+    {
+      "id": 46,
+      "name": "Goldner, Schroeder and Herzog",
+      "email": "arennles19@bluehost.com",
+      "location": "9889 Springview Hill",
+      "city": "Krakow",
+      "priceForNight": 60
+    },
+    {
+      "id": 47,
+      "name": "Zemlak-Brekke",
+      "email": "tbabber1a@zimbio.com",
+      "location": "1 Mifflin Circle",
+      "city": "Krakow",
+      "priceForNight": 60
+    },
+    {
+      "id": 48,
+      "name": "Batz-Huels",
+      "email": "ecowlin1b@zimbio.com",
+      "location": "981 Bunting Street",
+      "city": "Krakow",
+      "priceForNight": 2
+    },
+    {
+      "id": 49,
+      "name": "Toy-MacGyver",
+      "email": "osesser1c@livejournal.com",
+      "location": "6 6th Crossing",
+      "city": "Krakow",
+      "priceForNight": 50
+    },
+    {
+      "id": 50,
+      "name": "Wisozk, Hahn and Hansen",
+      "email": "bquenby1d@behance.net",
+      "location": "43 Crescent Oaks Alley",
+      "city": "Krakow",
+      "priceForNight": 89
     }
   ]
 }

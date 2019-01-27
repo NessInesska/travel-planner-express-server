@@ -40,4 +40,26 @@ app.get(`${API_PREFIX}/flights`, function (req, res) {
     res.send(db.flights)
 });
 
+app.get(`${API_PREFIX}/flights/:id`, function (req, res) {
+    let id = parseInt(req.params.id);
+    let result = db.flights.filter (f => f.id === id)[0];
+
+    if (!result) {
+        res.sendStatus(404)
+    } else {
+        res.send(result);
+    }
+});
+
+app.get(`${API_PREFIX}/flights/:cityId`, function (req, res) {
+    let cityId = parseInt(req.params.cityId);
+    let result = db.flights.filter (f => f.cityId === cityId)[0];
+
+    if (!result) {
+        res.sendStatus(404)
+    } else {
+        res.send(result);
+    }
+});
+
 app.listen(PORT, () => console.log('\nJSON Server is running on port ' + PORT));
