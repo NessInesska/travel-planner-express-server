@@ -62,4 +62,19 @@ app.get(`${API_PREFIX}/flights/:cityId`, function (req, res) {
     }
 });
 
+app.get(`${API_PREFIX}/hotels`, function (req, res) {
+    res.send(db.hotels)
+});
+
+app.get(`${API_PREFIX}/hotels/:hotelId`, function (req, res) {
+    let hotelId = parseInt(req.params.hotelId);
+    let result = db.hotels.filter (h => h.id === hotelId)[0];
+
+    if (!result) {
+        res.sendStatus(404)
+    } else {
+        res.send(result);
+    }
+});
+
 app.listen(PORT, () => console.log('\nJSON Server is running on port ' + PORT));
