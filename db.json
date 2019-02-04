@@ -366,7 +366,8 @@
       "name": "O'Connell-Rowe",
       "email": "sbeeswing0@dot.gov",
       "location": "845 Lake View Road",
-      "city": "Nevada",
+      "cityId": 3,
+      "image": "./assets/hotel-room.jpeg",
       "priceForNight": 30
     },
     {
@@ -374,7 +375,8 @@
       "name": "Emmerich and Sons",
       "email": "bscogings1@dedecms.com",
       "location": "60 Lien Trail",
-      "city": "Nevada",
+      "cityId": 3,
+      "image": "./assets/hotel-room.jpeg",
       "priceForNight": 528
     },
     {
@@ -382,7 +384,8 @@
       "name": "Olson, Jaskolski and Sauer",
       "email": "cmyhill2@forbes.com",
       "location": "95 Jackson Place",
-      "city": "Nevada",
+      "cityId": 3,
+      "image": "./assets/hotel-room.jpeg",
       "priceForNight": 51
     },
     {
@@ -390,7 +393,8 @@
       "name": "Block LLC",
       "email": "mstandring3@privacy.gov.au",
       "location": "9531 Crownhardt Point",
-      "city": "Nevada",
+      "cityId": 3,
+      "image": "./assets/hotel-room.jpeg",
       "priceForNight": 9
     },
     {
@@ -398,7 +402,8 @@
       "name": "Schimmel Group",
       "email": "awarlawe4@irs.gov",
       "location": "4716 Roth Point",
-      "city": "Nevada",
+      "cityId": 3,
+      "image": "./assets/hotel-room.jpeg",
       "priceForNight": 213
     },
     {
@@ -406,7 +411,8 @@
       "name": "Fritsch Inc",
       "email": "gtremlett5@vk.com",
       "location": "11871 Carpenter Street",
-      "city": "Paris",
+      "cityId": 4,
+      "image": "./assets/hotel-room.jpeg",
       "priceForNight": 70
     },
     {
@@ -414,7 +420,8 @@
       "name": "Howe Inc",
       "email": "lspradbrow6@who.int",
       "location": "554 Hintze Court",
-      "city": "Paris",
+      "cityId": 4,
+      "image": "./assets/hotel-room.jpeg",
       "priceForNight": 424
     },
     {
@@ -422,7 +429,8 @@
       "name": "McClure, Zemlak and Haag",
       "email": "cnotti7@harvard.edu",
       "location": "412 Oriole Alley",
-      "city": "Paris",
+      "cityId": 4,
+      "image": "./assets/hotel-room.jpeg",
       "priceForNight": 45
     },
     {
@@ -430,7 +438,8 @@
       "name": "Shields-Rohan",
       "email": "lmackiewicz8@accuweather.com",
       "location": "8 Arkansas Way",
-      "city": "Paris",
+      "cityId": 4,
+      "image": "./assets/hotel-room.jpeg",
       "priceForNight": 307
     },
     {
@@ -438,7 +447,8 @@
       "name": "Dickinson Inc",
       "email": "zkittle9@drupal.org",
       "location": "1173 Heffernan Lane",
-      "city": "Paris",
+      "cityId": 4,
+      "image": "./assets/hotel-room.jpeg",
       "priceForNight": 20
     },
     {
@@ -446,7 +456,8 @@
       "name": "Maggio Group",
       "email": "astanbridgea@bigcartel.com",
       "location": "07 Express Alley",
-      "city": "Paris",
+      "cityId": 4,
+      "image": "./assets/hotel-room.jpeg",
       "priceForNight": 88
     },
     {
@@ -454,7 +465,8 @@
       "name": "Jaskolski, Muller and Wehner",
       "email": "lstruttonb@europa.eu",
       "location": "7 Chinook Point",
-      "city": "Los-Angeles",
+      "cityId": 5,
+      "image": "./assets/hotel-room.jpeg",
       "priceForNight": 611
     },
     {
@@ -462,7 +474,8 @@
       "name": "Runolfsson LLC",
       "email": "rwofendenc@yelp.com",
       "location": "29 Aberg Point",
-      "city": "Los-Angeles",
+      "cityId": 5,
+      "image": "./assets/hotel-room.jpeg",
       "priceForNight": 2
     },
     {
@@ -470,7 +483,8 @@
       "name": "Cartwright-Hartmann",
       "email": "tgraithd@irs.gov",
       "location": "89048 Ramsey Road",
-      "city": "Los-Angeles",
+      "cityId": 5,
+      "image": "./assets/hotel-room.jpeg",
       "priceForNight": 449
     },
     {
@@ -478,7 +492,8 @@
       "name": "Russel, Hermiston and Wisoky",
       "email": "domullene@dropbox.com",
       "location": "72 Florence Drive",
-      "city": "Los-Angeles",
+      "cityId": 5,
+      "image": "./assets/hotel-room.jpeg",
       "priceForNight": 97
     },
     {
@@ -486,7 +501,8 @@
       "name": "Lakin, Bechtelar and Emard",
       "email": "hhefferonf@deviantart.com",
       "location": "086 Kim Point",
-      "city": "San-Ramon",
+      "cityId": 6,
+      "image": "./assets/hotel-room.jpeg",
       "priceForNight": 293
     },
     {
@@ -494,7 +510,8 @@
       "name": "Zulauf, O'Kon and Quigley",
       "email": "rdearg@plala.or.jp",
       "location": "0646 Ohio Way",
-      "city": "San-Ramon",
+      "cityId": 6,
+      "image": "./assets/hotel-room.jpeg",
       "priceForNight": 450
     },
     {
@@ -502,7 +519,8 @@
       "name": "Larson-Kuphal",
       "email": "cdaguannoh@uiuc.edu",
       "location": "01 Melvin Park",
-      "city": "San-Ramon",
+      "cityId": 6,
+      "image": "./assets/hotel-room.jpeg",
       "priceForNight": 6
     },
     {
@@ -510,7 +528,8 @@
       "name": "Hilpert-Morar",
       "email": "ddelaneyi@msu.edu",
       "location": "817 Anderson Crossing",
-      "city": "San-Ramon",
+      "cityId": 6,
+      "image": "./assets/hotel-room.jpeg",
       "priceForNight": 401
     },
     {
@@ -518,7 +537,8 @@
       "name": "Abernathy-Bernier",
       "email": "epaszakj@google.de",
       "location": "483 Green Plaza",
-      "city": "San-Ramon",
+      "cityId": 6,
+      "image": "./assets/hotel-room.jpeg",
       "priceForNight": 6
     },
     {
@@ -526,7 +546,8 @@
       "name": "Collins-Dietrich",
       "email": "kferencowiczk@newsvine.com",
       "location": "21 Prairieview Plaza",
-      "city": "London",
+      "cityId": 1,
+      "image": "./assets/hotel-room.jpeg",
       "priceForNight": 298
     },
     {
@@ -534,7 +555,8 @@
       "name": "Graham-Beatty",
       "email": "gbergl@techcrunch.com",
       "location": "18805 American Ash Lane",
-      "city": "London",
+      "cityId": 1,
+      "image": "./assets/hotel-room.jpeg",
       "priceForNight": 118
     },
     {
@@ -542,7 +564,8 @@
       "name": "Emard, Erdman and Gerhold",
       "email": "lwildorm@dot.gov",
       "location": "15256 Cottonwood Crossing",
-      "city": "London",
+      "cityId": 1,
+      "image": "./assets/hotel-room.jpeg",
       "priceForNight": 6
     },
     {
@@ -550,7 +573,8 @@
       "name": "Rolfson LLC",
       "email": "apetraccon@plala.or.jp",
       "location": "70116 Coleman Avenue",
-      "city": "London",
+      "cityId": 1,
+      "image": "./assets/hotel-room.jpeg",
       "priceForNight": 9
     },
     {
@@ -558,7 +582,8 @@
       "name": "Kautzer-Jacobson",
       "email": "chumberstono@amazonaws.com",
       "location": "8 Stang Point",
-      "city": "London",
+      "cityId": 1,
+      "image": "./assets/hotel-room.jpeg",
       "priceForNight": 7
     },
     {
@@ -566,7 +591,8 @@
       "name": "Gusikowski, King and Crooks",
       "email": "bdaelmanp@berkeley.edu",
       "location": "25 Jenna Crossing",
-      "city": "Oslo",
+      "cityId": 2,
+      "image": "./assets/hotel-room.jpeg",
       "priceForNight": 67
     },
     {
@@ -574,7 +600,8 @@
       "name": "Yost-Konopelski",
       "email": "afawloq@unblog.fr",
       "location": "1323 Green Ridge Place",
-      "city": "Oslo",
+      "cityId": 2,
+      "image": "./assets/hotel-room.jpeg",
       "priceForNight": 195
     },
     {
@@ -582,7 +609,8 @@
       "name": "Hamill Inc",
       "email": "pflatter@wix.com",
       "location": "84 West Park",
-      "city": "Oslo",
+      "cityId": 2,
+      "image": "./assets/hotel-room.jpeg",
       "priceForNight": 51
     },
     {
@@ -590,7 +618,8 @@
       "name": "Kemmer Inc",
       "email": "dfountaines@theguardian.com",
       "location": "66873 Cardinal Avenue",
-      "city": "Oslo",
+      "cityId": 2,
+      "image": "./assets/hotel-room.jpeg",
       "priceForNight": 83
     },
     {
@@ -598,7 +627,8 @@
       "name": "Crist and Sons",
       "email": "dfahyt@360.cn",
       "location": "228 Birchwood Way",
-      "city": "Oslo",
+      "cityId": 2,
+      "image": "./assets/hotel-room.jpeg",
       "priceForNight": 52
     },
     {
@@ -606,7 +636,8 @@
       "name": "Shanahan, Abernathy and Kuvalis",
       "email": "cgeddisu@admin.ch",
       "location": "4721 Warrior Place",
-      "city": "Moscow",
+      "cityId": 7,
+      "image": "./assets/hotel-room.jpeg",
       "priceForNight": 402
     },
     {
@@ -614,7 +645,8 @@
       "name": "Conn LLC",
       "email": "cdriversv@unc.edu",
       "location": "741 Warner Drive",
-      "city": "Moscow",
+      "cityId": 7,
+      "image": "./assets/hotel-room.jpeg",
       "priceForNight": 8
     },
     {
@@ -622,7 +654,8 @@
       "name": "Fay, Emmerich and Casper",
       "email": "wnutbrownw@skyrock.com",
       "location": "7036 Village Point",
-      "city": "Moscow",
+      "cityId": 7,
+      "image": "./assets/hotel-room.jpeg",
       "priceForNight": 604
     },
     {
@@ -630,7 +663,8 @@
       "name": "Hills Inc",
       "email": "lchaneyx@ox.ac.uk",
       "location": "80 Talisman Park",
-      "city": "Moscow",
+      "cityId": 7,
+      "image": "./assets/hotel-room.jpeg",
       "priceForNight": 56
     },
     {
@@ -638,7 +672,8 @@
       "name": "Bernier, Kling and Spinka",
       "email": "sveelery@jiathis.com",
       "location": "9 Grover Pass",
-      "city": "Moscow",
+      "cityId": 7,
+      "image": "./assets/hotel-room.jpeg",
       "priceForNight": 1025
     },
     {
@@ -646,7 +681,8 @@
       "name": "Schroeder-Kohler",
       "email": "fdebnamz@jigsy.com",
       "location": "0 Cambridge Alley",
-      "city": "Berlin",
+      "cityId": 8,
+      "image": "./assets/hotel-room.jpeg",
       "priceForNight": 776
     },
     {
@@ -654,7 +690,8 @@
       "name": "Homenick and Sons",
       "email": "slivick10@skyrock.com",
       "location": "7441 Hudson Place",
-      "city": "Berlin",
+      "cityId": 8,
+      "image": "./assets/hotel-room.jpeg",
       "priceForNight": 0
     },
     {
@@ -662,7 +699,8 @@
       "name": "Brakus, Torp and Crona",
       "email": "adelacoste11@phpbb.com",
       "location": "83 Roxbury Crossing",
-      "city": "Berlin",
+      "cityId": 8,
+      "image": "./assets/hotel-room.jpeg",
       "priceForNight": 53
     },
     {
@@ -670,7 +708,8 @@
       "name": "Baumbach, Streich and Schiller",
       "email": "riacopo12@studiopress.com",
       "location": "92667 Marquette Avenue",
-      "city": "Berlin",
+      "cityId": 8,
+      "image": "./assets/hotel-room.jpeg",
       "priceForNight": 21
     },
     {
@@ -678,7 +717,8 @@
       "name": "Cartwright and Sons",
       "email": "jpicot13@ameblo.jp",
       "location": "66 Mayer Lane",
-      "city": "Berlin",
+      "cityId": 8,
+      "image": "./assets/hotel-room.jpeg",
       "priceForNight": 308
     },
     {
@@ -686,7 +726,8 @@
       "name": "Predovic and Sons",
       "email": "rmcginney14@unblog.fr",
       "location": "531 Morningstar Junction",
-      "city": "San-Francisco",
+      "cityId": 9,
+      "image": "./assets/hotel-room.jpeg",
       "priceForNight": 343
     },
     {
@@ -694,7 +735,8 @@
       "name": "Harris-Hansen",
       "email": "kobeney15@nasa.gov",
       "location": "40 Scofield Pass",
-      "city": "San-Francisco",
+      "cityId": 9,
+      "image": "./assets/hotel-room.jpeg",
       "priceForNight": 680
     },
     {
@@ -702,7 +744,8 @@
       "name": "Hane and Sons",
       "email": "hnutkins16@mail.ru",
       "location": "640 Talmadge Park",
-      "city": "San-Francisco",
+      "cityId": 9,
+      "image": "./assets/hotel-room.jpeg",
       "priceForNight": 4
     },
     {
@@ -710,7 +753,8 @@
       "name": "Collins-Towne",
       "email": "askells17@stanford.edu",
       "location": "5415 Corry Plaza",
-      "city": "San-Francisco",
+      "cityId": 9,
+      "image": "./assets/hotel-room.jpeg",
       "priceForNight": 380
     },
     {
@@ -718,7 +762,8 @@
       "name": "Kuhlman, Kovacek and Bartoletti",
       "email": "aswepstone18@zdnet.com",
       "location": "8103 Logan Drive",
-      "city": "San-Francisco",
+      "cityId": 9,
+      "image": "./assets/hotel-room.jpeg",
       "priceForNight": 766
     },
     {
@@ -726,7 +771,8 @@
       "name": "Goldner, Schroeder and Herzog",
       "email": "arennles19@bluehost.com",
       "location": "9889 Springview Hill",
-      "city": "Krakow",
+      "cityId": 10,
+      "image": "./assets/hotel-room.jpeg",
       "priceForNight": 60
     },
     {
@@ -734,7 +780,8 @@
       "name": "Zemlak-Brekke",
       "email": "tbabber1a@zimbio.com",
       "location": "1 Mifflin Circle",
-      "city": "Krakow",
+      "cityId": 10,
+      "image": "./assets/hotel-room.jpeg",
       "priceForNight": 60
     },
     {
@@ -742,7 +789,8 @@
       "name": "Batz-Huels",
       "email": "ecowlin1b@zimbio.com",
       "location": "981 Bunting Street",
-      "city": "Krakow",
+      "cityId": 10,
+      "image": "./assets/hotel-room.jpeg",
       "priceForNight": 2
     },
     {
@@ -750,7 +798,8 @@
       "name": "Toy-MacGyver",
       "email": "osesser1c@livejournal.com",
       "location": "6 6th Crossing",
-      "city": "Krakow",
+      "cityId": 10,
+      "image": "./assets/hotel-room.jpeg",
       "priceForNight": 50
     },
     {
@@ -758,8 +807,10 @@
       "name": "Wisozk, Hahn and Hansen",
       "email": "bquenby1d@behance.net",
       "location": "43 Crescent Oaks Alley",
-      "city": "Krakow",
+      "cityId": 10,
+      "image": "./assets/hotel-room.jpeg",
       "priceForNight": 89
     }
-  ]
+  ],
+  "adults": [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 }

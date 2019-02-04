@@ -66,15 +66,19 @@ app.get(`${API_PREFIX}/hotels`, function (req, res) {
     res.send(db.hotels)
 });
 
-app.get(`${API_PREFIX}/hotels/:hotelId`, function (req, res) {
-    let hotelId = parseInt(req.params.hotelId);
-    let result = db.hotels.filter (h => h.id === hotelId)[0];
+app.get(`${API_PREFIX}/hotels/:cityId`, function (req, res) {
+    let cityId = parseInt(req.params.cityId);
+    let result = db.hotels.filter (h => h.cityId === cityId);
 
     if (!result) {
         res.sendStatus(404)
     } else {
         res.send(result);
     }
+});
+
+app.get(`${API_PREFIX}/adults`, function (req, res) {
+    res.send(db.adults)
 });
 
 app.listen(PORT, () => console.log('\nJSON Server is running on port ' + PORT));
